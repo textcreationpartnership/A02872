@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The image of both Churches after the most wonderfull and heauenly Reuelation of sainct Iohn the Euan
+
 #####Back#####
-The image of both Churches after the most wonderfull and heauenly Reuelation of sainct Iohn the Euan
+
+1. A conclusion of the vvhole vvorke.
+¶ Printed at London by Thomas East.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
